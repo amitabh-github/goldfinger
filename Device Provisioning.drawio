@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-12T16:26:02.500Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="DC8ZGfekkmsWL6lX6U5D" version="20.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-12T16:56:35.833Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="zeo-Cn4Vwt7xwKM40_uy" version="20.0.0" type="github">
   <diagram id="tBzqnwQVbEsAYheGIp0X" name="Page-1">
-    <mxGraphModel dx="901" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="823" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -105,7 +105,7 @@
             <mxPoint x="280" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xWyMnHbNJwtINRMRzhNu-8" value="Enrollment Details(Enrollment/userID, Certificate" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontColor=#3333FF;strokeColor=#3399FF;strokeWidth=6;" connectable="0" vertex="1" parent="xWyMnHbNJwtINRMRzhNu-7">
+        <mxCell id="xWyMnHbNJwtINRMRzhNu-8" value="Enrollment Details (Enrollment/UserID, Certificate)" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontColor=#3333FF;strokeColor=#3399FF;strokeWidth=6;" connectable="0" vertex="1" parent="xWyMnHbNJwtINRMRzhNu-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="15" as="offset" />
           </mxGeometry>
@@ -128,9 +128,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xWyMnHbNJwtINRMRzhNu-12" value="Provision &amp;amp; Activation(X.509 cert, UserID, ActivationKey/OTP" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontColor=#3333FF;strokeColor=#3399FF;strokeWidth=6;" connectable="0" vertex="1" parent="xWyMnHbNJwtINRMRzhNu-11">
+        <mxCell id="xWyMnHbNJwtINRMRzhNu-12" value="Provision &amp;amp; Activation(X.509 cert, Enrollment/UserID, ActivationKey/OTP" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontColor=#3333FF;strokeColor=#3399FF;strokeWidth=6;" connectable="0" vertex="1" parent="xWyMnHbNJwtINRMRzhNu-11">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="15" y="11" as="offset" />
+            <mxPoint x="55" y="11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xWyMnHbNJwtINRMRzhNu-13" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#3333FF;sourcePerimeterSpacing=0;strokeColor=#009900;strokeWidth=4;fillColor=default;" edge="1" parent="1">
@@ -143,6 +143,43 @@
         <mxCell id="xWyMnHbNJwtINRMRzhNu-14" value="Verify UserID and Activation Key/OTP" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontColor=#3333FF;strokeColor=#3399FF;strokeWidth=6;" connectable="0" vertex="1" parent="xWyMnHbNJwtINRMRzhNu-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-29" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xWyMnHbNJwtINRMRzhNu-17" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#3333FF;sourcePerimeterSpacing=0;strokeColor=#009900;strokeWidth=4;fillColor=default;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="380" as="sourcePoint" />
+            <mxPoint x="279.9999999999999" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xWyMnHbNJwtINRMRzhNu-18" value="Goldfinger Backend App(GBA) verifies enrollment and commands DPS to Provision" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontColor=#3333FF;strokeColor=#3399FF;strokeWidth=6;" connectable="0" vertex="1" parent="xWyMnHbNJwtINRMRzhNu-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xWyMnHbNJwtINRMRzhNu-19" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#3333FF;sourcePerimeterSpacing=0;strokeColor=#009900;strokeWidth=4;fillColor=default;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="279.9999999999999" y="410.0000000000002" as="sourcePoint" />
+            <mxPoint x="480" y="410" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xWyMnHbNJwtINRMRzhNu-20" value="Creates Device Identity in IoT Hub" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontColor=#3333FF;strokeColor=#3399FF;strokeWidth=6;" connectable="0" vertex="1" parent="xWyMnHbNJwtINRMRzhNu-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5" y="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xWyMnHbNJwtINRMRzhNu-23" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#3333FF;sourcePerimeterSpacing=0;strokeColor=#009900;strokeWidth=4;fillColor=default;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="440" as="sourcePoint" />
+            <mxPoint x="100" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="180" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xWyMnHbNJwtINRMRzhNu-24" value="Sends IoT Hub Url To Mobile App" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontColor=#3333FF;strokeColor=#3399FF;strokeWidth=6;" connectable="0" vertex="1" parent="xWyMnHbNJwtINRMRzhNu-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="10" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
