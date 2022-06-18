@@ -1,201 +1,201 @@
-<mxfile host="app.diagrams.net" modified="2022-06-12T19:07:48.314Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="R2dYsQfNv1_XnwWCh7zH" version="20.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-18T21:57:57.968Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="WXD7fUoBtR7ptQCYZ8nr" version="20.0.0" type="github">
   <diagram id="tBzqnwQVbEsAYheGIp0X" name="Page-1">
-    <mxGraphModel dx="1051" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1066" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="QduvUi_wdQGYh5JuUDH2-1" value="&lt;b&gt;&lt;font color=&quot;#3333ff&quot;&gt;Mobile Application/User&lt;/font&gt;&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=6;strokeColor=#00BEF2;" parent="1" vertex="1">
-          <mxGeometry x="90" y="40" width="30" height="50" as="geometry" />
+          <mxGeometry x="67" y="40" width="30" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QduvUi_wdQGYh5JuUDH2-2" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/iot/Device_Provisioning_Services.svg;" parent="1" vertex="1">
-          <mxGeometry x="250" y="20" width="64" height="66" as="geometry" />
+          <mxGeometry x="227" y="20" width="64" height="66" as="geometry" />
         </mxCell>
         <mxCell id="QduvUi_wdQGYh5JuUDH2-3" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/iot/IoT_Hub.svg;" parent="1" vertex="1">
-          <mxGeometry x="446" y="26" width="64" height="64" as="geometry" />
+          <mxGeometry x="423" y="26" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="QduvUi_wdQGYh5JuUDH2-4" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/security/Key_Vaults.svg;" parent="1" vertex="1">
-          <mxGeometry x="600" y="20" width="68" height="68" as="geometry" />
+          <mxGeometry x="577" y="20" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="QduvUi_wdQGYh5JuUDH2-6" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#00BEF2;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.communications.central_management_service;" parent="1" vertex="1">
-          <mxGeometry x="760" y="24.5" width="60" height="63.5" as="geometry" />
+          <mxGeometry x="737" y="24.5" width="60" height="63.5" as="geometry" />
         </mxCell>
         <mxCell id="QduvUi_wdQGYh5JuUDH2-14" value="" style="endArrow=none;html=1;rounded=0;sourcePerimeterSpacing=0;strokeWidth=5;fillColor=default;strokeColor=#000000;dashed=1;dashPattern=1 1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="104.5" y="518" as="sourcePoint" />
-            <mxPoint x="104.5" y="108" as="targetPoint" />
+            <mxPoint x="81.5" y="518" as="sourcePoint" />
+            <mxPoint x="81.5" y="108" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QduvUi_wdQGYh5JuUDH2-15" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=5;fillColor=default;strokeColor=#3333FF;dashed=1;dashPattern=1 1;startArrow=none;" parent="1" source="QduvUi_wdQGYh5JuUDH2-20" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="281.5" y="530" as="sourcePoint" />
-            <mxPoint x="281.5" y="120" as="targetPoint" />
+            <mxPoint x="258.5" y="530" as="sourcePoint" />
+            <mxPoint x="258.5" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QduvUi_wdQGYh5JuUDH2-17" value="" style="endArrow=none;html=1;rounded=0;sourcePerimeterSpacing=0;strokeWidth=5;fillColor=default;strokeColor=#000000;dashed=1;dashPattern=1 1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="530" as="sourcePoint" />
-            <mxPoint x="480" y="120" as="targetPoint" />
+            <mxPoint x="457" y="530" as="sourcePoint" />
+            <mxPoint x="457" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QduvUi_wdQGYh5JuUDH2-18" value="" style="endArrow=none;html=1;rounded=0;sourcePerimeterSpacing=0;strokeWidth=5;fillColor=default;strokeColor=#000000;dashed=1;dashPattern=1 1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="640" y="530" as="sourcePoint" />
-            <mxPoint x="640" y="120" as="targetPoint" />
+            <mxPoint x="617" y="530" as="sourcePoint" />
+            <mxPoint x="617" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QduvUi_wdQGYh5JuUDH2-19" value="" style="endArrow=none;html=1;rounded=0;sourcePerimeterSpacing=0;strokeWidth=5;fillColor=default;strokeColor=#000000;dashed=1;dashPattern=1 1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="800" y="530" as="sourcePoint" />
-            <mxPoint x="800" y="120" as="targetPoint" />
+            <mxPoint x="777" y="530" as="sourcePoint" />
+            <mxPoint x="777" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QduvUi_wdQGYh5JuUDH2-20" value="Device Provisioning Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3333FF;" parent="1" vertex="1">
-          <mxGeometry x="252" y="90" width="60" height="30" as="geometry" />
+          <mxGeometry x="229" y="90" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QduvUi_wdQGYh5JuUDH2-21" value="" style="endArrow=none;html=1;rounded=0;sourcePerimeterSpacing=0;strokeWidth=5;fillColor=default;strokeColor=#000000;dashed=1;dashPattern=1 1;" parent="1" target="QduvUi_wdQGYh5JuUDH2-20" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="281.5" y="530" as="sourcePoint" />
-            <mxPoint x="281.5" y="120" as="targetPoint" />
+            <mxPoint x="258.5" y="530" as="sourcePoint" />
+            <mxPoint x="258.5" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QduvUi_wdQGYh5JuUDH2-22" value="Azure IoT Hub" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3333FF;" parent="1" vertex="1">
-          <mxGeometry x="448" y="90" width="60" height="30" as="geometry" />
+          <mxGeometry x="425" y="90" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QduvUi_wdQGYh5JuUDH2-24" value="Azure Key Vault" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3333FF;" parent="1" vertex="1">
-          <mxGeometry x="604" y="90" width="60" height="30" as="geometry" />
+          <mxGeometry x="581" y="90" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QduvUi_wdQGYh5JuUDH2-25" value="GoldFinger Backend Application(GBA)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3333FF;" parent="1" vertex="1">
-          <mxGeometry x="770" y="90" width="60" height="30" as="geometry" />
+          <mxGeometry x="747" y="90" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xWyMnHbNJwtINRMRzhNu-1" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#3333FF;sourcePerimeterSpacing=0;strokeColor=#009900;strokeWidth=4;fillColor=default;" edge="1" parent="1">
+        <mxCell id="xWyMnHbNJwtINRMRzhNu-1" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#3333FF;sourcePerimeterSpacing=0;strokeColor=#009900;strokeWidth=4;fillColor=default;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="110" y="150" as="sourcePoint" />
-            <mxPoint x="800" y="150" as="targetPoint" />
+            <mxPoint x="87" y="150" as="sourcePoint" />
+            <mxPoint x="777" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xWyMnHbNJwtINRMRzhNu-2" value="Goldfinger User registration" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontColor=#3333FF;strokeColor=#3399FF;strokeWidth=6;" connectable="0" vertex="1" parent="xWyMnHbNJwtINRMRzhNu-1">
+        <mxCell id="xWyMnHbNJwtINRMRzhNu-2" value="Goldfinger User registration" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontColor=#3333FF;strokeColor=#3399FF;strokeWidth=6;" parent="xWyMnHbNJwtINRMRzhNu-1" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xWyMnHbNJwtINRMRzhNu-3" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#3333FF;sourcePerimeterSpacing=0;strokeColor=#009900;strokeWidth=4;fillColor=default;jumpStyle=gap;" edge="1" parent="1">
+        <mxCell id="xWyMnHbNJwtINRMRzhNu-3" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#3333FF;sourcePerimeterSpacing=0;strokeColor=#009900;strokeWidth=4;fillColor=default;jumpStyle=gap;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="800" y="170" as="sourcePoint" />
-            <mxPoint x="640" y="170" as="targetPoint" />
+            <mxPoint x="777" y="170" as="sourcePoint" />
+            <mxPoint x="617" y="170" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xWyMnHbNJwtINRMRzhNu-4" value="Backend App requests for Certificate" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=top;fontColor=#3333FF;strokeColor=#3399FF;strokeWidth=6;spacingBottom=2;spacing=1;spacingTop=0;spacingLeft=0;labelPosition=center;verticalLabelPosition=bottom;fontSize=11;container=1;" connectable="0" vertex="1" parent="xWyMnHbNJwtINRMRzhNu-3">
+        <mxCell id="xWyMnHbNJwtINRMRzhNu-4" value="Backend App requests for Certificate" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=top;fontColor=#3333FF;strokeColor=#3399FF;strokeWidth=6;spacingBottom=2;spacing=1;spacingTop=0;spacingLeft=0;labelPosition=center;verticalLabelPosition=bottom;fontSize=11;container=1;" parent="xWyMnHbNJwtINRMRzhNu-3" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="10" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xWyMnHbNJwtINRMRzhNu-5" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#3333FF;sourcePerimeterSpacing=0;strokeColor=#009900;strokeWidth=4;fillColor=default;" edge="1" parent="1">
+        <mxCell id="xWyMnHbNJwtINRMRzhNu-5" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#3333FF;sourcePerimeterSpacing=0;strokeColor=#009900;strokeWidth=4;fillColor=default;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="640" y="197" as="sourcePoint" />
-            <mxPoint x="800" y="197" as="targetPoint" />
+            <mxPoint x="617" y="197" as="sourcePoint" />
+            <mxPoint x="777" y="197" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xWyMnHbNJwtINRMRzhNu-6" value="Generates X.509 Certificate Sends to GBA" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontColor=#3333FF;strokeColor=#3399FF;strokeWidth=6;" connectable="0" vertex="1" parent="xWyMnHbNJwtINRMRzhNu-5">
+        <mxCell id="xWyMnHbNJwtINRMRzhNu-6" value="Generates X.509 Certificate Sends to GBA" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontColor=#3333FF;strokeColor=#3399FF;strokeWidth=6;" parent="xWyMnHbNJwtINRMRzhNu-5" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="40" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xWyMnHbNJwtINRMRzhNu-7" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#3333FF;sourcePerimeterSpacing=0;strokeColor=#009900;strokeWidth=4;fillColor=default;" edge="1" parent="1">
+        <mxCell id="xWyMnHbNJwtINRMRzhNu-7" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#3333FF;sourcePerimeterSpacing=0;strokeColor=#009900;strokeWidth=4;fillColor=default;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="800" y="235" as="sourcePoint" />
-            <mxPoint x="280" y="235" as="targetPoint" />
+            <mxPoint x="777" y="235" as="sourcePoint" />
+            <mxPoint x="257" y="235" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xWyMnHbNJwtINRMRzhNu-8" value="Enrollment Details (Enrollment/UserID, Certificate)" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontColor=#3333FF;strokeColor=#3399FF;strokeWidth=6;" connectable="0" vertex="1" parent="xWyMnHbNJwtINRMRzhNu-7">
+        <mxCell id="xWyMnHbNJwtINRMRzhNu-8" value="Enrollment Details (Enrollment/UserID, Certificate)" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontColor=#3333FF;strokeColor=#3399FF;strokeWidth=6;" parent="xWyMnHbNJwtINRMRzhNu-7" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xWyMnHbNJwtINRMRzhNu-9" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#3333FF;sourcePerimeterSpacing=0;strokeColor=#009900;strokeWidth=4;fillColor=default;" edge="1" parent="1">
+        <mxCell id="xWyMnHbNJwtINRMRzhNu-9" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#3333FF;sourcePerimeterSpacing=0;strokeColor=#009900;strokeWidth=4;fillColor=default;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="800" y="259" as="sourcePoint" />
-            <mxPoint x="100" y="259" as="targetPoint" />
+            <mxPoint x="777" y="259" as="sourcePoint" />
+            <mxPoint x="77" y="259" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xWyMnHbNJwtINRMRzhNu-10" value="Activation Key in an email/ OTP Details to activate" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontColor=#3333FF;strokeColor=#3399FF;strokeWidth=6;" connectable="0" vertex="1" parent="xWyMnHbNJwtINRMRzhNu-9">
+        <mxCell id="xWyMnHbNJwtINRMRzhNu-10" value="Activation Key in an email/ OTP Details to activate" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontColor=#3333FF;strokeColor=#3399FF;strokeWidth=6;" parent="xWyMnHbNJwtINRMRzhNu-9" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xWyMnHbNJwtINRMRzhNu-11" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#3333FF;sourcePerimeterSpacing=0;strokeColor=#009900;strokeWidth=4;fillColor=default;" edge="1" parent="1">
+        <mxCell id="xWyMnHbNJwtINRMRzhNu-11" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#3333FF;sourcePerimeterSpacing=0;strokeColor=#009900;strokeWidth=4;fillColor=default;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="110" y="330.0000000000002" as="sourcePoint" />
-            <mxPoint x="280" y="330" as="targetPoint" />
+            <mxPoint x="87" y="330.0000000000002" as="sourcePoint" />
+            <mxPoint x="257" y="330" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xWyMnHbNJwtINRMRzhNu-12" value="Provision &amp;amp; Activation(X.509 cert, Enrollment/UserID, ActivationKey/OTP" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontColor=#3333FF;strokeColor=#3399FF;strokeWidth=6;" connectable="0" vertex="1" parent="xWyMnHbNJwtINRMRzhNu-11">
+        <mxCell id="xWyMnHbNJwtINRMRzhNu-12" value="Provision &amp;amp; Activation(X.509 cert, Enrollment/UserID, ActivationKey/OTP" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontColor=#3333FF;strokeColor=#3399FF;strokeWidth=6;" parent="xWyMnHbNJwtINRMRzhNu-11" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="55" y="11" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xWyMnHbNJwtINRMRzhNu-13" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#3333FF;sourcePerimeterSpacing=0;strokeColor=#009900;strokeWidth=4;fillColor=default;" edge="1" parent="1">
+        <mxCell id="xWyMnHbNJwtINRMRzhNu-13" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#3333FF;sourcePerimeterSpacing=0;strokeColor=#009900;strokeWidth=4;fillColor=default;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="360" as="sourcePoint" />
-            <mxPoint x="800" y="360" as="targetPoint" />
+            <mxPoint x="257" y="360" as="sourcePoint" />
+            <mxPoint x="777" y="360" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xWyMnHbNJwtINRMRzhNu-14" value="Verify UserID and Activation Key/OTP" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontColor=#3333FF;strokeColor=#3399FF;strokeWidth=6;" connectable="0" vertex="1" parent="xWyMnHbNJwtINRMRzhNu-13">
+        <mxCell id="xWyMnHbNJwtINRMRzhNu-14" value="Verify UserID and Activation Key/OTP" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontColor=#3333FF;strokeColor=#3399FF;strokeWidth=6;" parent="xWyMnHbNJwtINRMRzhNu-13" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-29" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xWyMnHbNJwtINRMRzhNu-17" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#3333FF;sourcePerimeterSpacing=0;strokeColor=#009900;strokeWidth=4;fillColor=default;" edge="1" parent="1">
+        <mxCell id="xWyMnHbNJwtINRMRzhNu-17" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#3333FF;sourcePerimeterSpacing=0;strokeColor=#009900;strokeWidth=4;fillColor=default;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="800" y="380" as="sourcePoint" />
-            <mxPoint x="279.9999999999999" y="380" as="targetPoint" />
+            <mxPoint x="777" y="380" as="sourcePoint" />
+            <mxPoint x="256.9999999999999" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xWyMnHbNJwtINRMRzhNu-18" value="GBA verifies enrollment and commands DPS to Provision the mobile device" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontColor=#3333FF;strokeColor=#3399FF;strokeWidth=6;" connectable="0" vertex="1" parent="xWyMnHbNJwtINRMRzhNu-17">
+        <mxCell id="xWyMnHbNJwtINRMRzhNu-18" value="GBA verifies enrollment and commands DPS to Provision the mobile device" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontColor=#3333FF;strokeColor=#3399FF;strokeWidth=6;" parent="xWyMnHbNJwtINRMRzhNu-17" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xWyMnHbNJwtINRMRzhNu-19" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#3333FF;sourcePerimeterSpacing=0;strokeColor=#009900;strokeWidth=4;fillColor=default;" edge="1" parent="1">
+        <mxCell id="xWyMnHbNJwtINRMRzhNu-19" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#3333FF;sourcePerimeterSpacing=0;strokeColor=#009900;strokeWidth=4;fillColor=default;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="279.9999999999999" y="410.0000000000002" as="sourcePoint" />
-            <mxPoint x="480" y="410" as="targetPoint" />
+            <mxPoint x="256.9999999999999" y="410.0000000000002" as="sourcePoint" />
+            <mxPoint x="457" y="410" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xWyMnHbNJwtINRMRzhNu-20" value="Creates Device Identity in IoT Hub" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontColor=#3333FF;strokeColor=#3399FF;strokeWidth=6;" connectable="0" vertex="1" parent="xWyMnHbNJwtINRMRzhNu-19">
+        <mxCell id="xWyMnHbNJwtINRMRzhNu-20" value="Creates Device Identity in IoT Hub" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontColor=#3333FF;strokeColor=#3399FF;strokeWidth=6;" parent="xWyMnHbNJwtINRMRzhNu-19" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="5" y="11" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xWyMnHbNJwtINRMRzhNu-23" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#3333FF;sourcePerimeterSpacing=0;strokeColor=#009900;strokeWidth=4;fillColor=default;" edge="1" parent="1">
+        <mxCell id="xWyMnHbNJwtINRMRzhNu-23" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#3333FF;sourcePerimeterSpacing=0;strokeColor=#009900;strokeWidth=4;fillColor=default;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="440" as="sourcePoint" />
-            <mxPoint x="100" y="440" as="targetPoint" />
+            <mxPoint x="257" y="440" as="sourcePoint" />
+            <mxPoint x="77" y="440" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="180" y="440" />
+              <mxPoint x="157" y="440" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xWyMnHbNJwtINRMRzhNu-24" value="Sends IoT Hub Url To Mobile App" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontColor=#3333FF;strokeColor=#3399FF;strokeWidth=6;" connectable="0" vertex="1" parent="xWyMnHbNJwtINRMRzhNu-23">
+        <mxCell id="xWyMnHbNJwtINRMRzhNu-24" value="Sends IoT Hub Url To Mobile App" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontColor=#3333FF;strokeColor=#3399FF;strokeWidth=6;" parent="xWyMnHbNJwtINRMRzhNu-23" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="10" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xWyMnHbNJwtINRMRzhNu-25" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#3333FF;sourcePerimeterSpacing=0;strokeColor=#009900;strokeWidth=4;fillColor=default;" edge="1" parent="1">
+        <mxCell id="xWyMnHbNJwtINRMRzhNu-25" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#3333FF;sourcePerimeterSpacing=0;strokeColor=#009900;strokeWidth=4;fillColor=default;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="110" y="480.0000000000002" as="sourcePoint" />
-            <mxPoint x="480" y="480" as="targetPoint" />
+            <mxPoint x="87" y="480.0000000000002" as="sourcePoint" />
+            <mxPoint x="457" y="480" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xWyMnHbNJwtINRMRzhNu-26" value="Registration Complete and Communication can happen on IoT Hub" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontColor=#3333FF;strokeColor=#3399FF;strokeWidth=6;" connectable="0" vertex="1" parent="xWyMnHbNJwtINRMRzhNu-25">
+        <mxCell id="xWyMnHbNJwtINRMRzhNu-26" value="Registration Complete and Communication can happen on IoT Hub" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontColor=#3333FF;strokeColor=#3399FF;strokeWidth=6;" parent="xWyMnHbNJwtINRMRzhNu-25" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-5" y="11" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xWyMnHbNJwtINRMRzhNu-27" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile;pointerEvents=1;fontSize=11;fontColor=#3333FF;" vertex="1" parent="1">
-          <mxGeometry x="120" y="40" width="35" height="50" as="geometry" />
+        <mxCell id="xWyMnHbNJwtINRMRzhNu-27" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile;pointerEvents=1;fontSize=11;fontColor=#3333FF;" parent="1" vertex="1">
+          <mxGeometry x="97" y="40" width="35" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
