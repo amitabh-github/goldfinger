@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-20T02:39:52.605Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="rv78d_WB-dq2ftb4OloO" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-20T02:42:13.903Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="wQTsl4TP6Ucp4Yid_qwD" version="20.0.1" type="github">
   <diagram id="cfgrS_ykFPJLSnLUaXzq" name="Page-1">
     <mxGraphModel dx="1067" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -57,7 +57,7 @@
           <mxGeometry x="410" y="242" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="YPjN2e0MsZWWOv602ALj-10" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/applications/microservice.svg;" parent="1" vertex="1">
-          <mxGeometry x="562" y="90" width="82.2" height="60" as="geometry" />
+          <mxGeometry x="560" y="84" width="82.2" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YPjN2e0MsZWWOv602ALj-11" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/applications/microservice.svg;" parent="1" vertex="1">
           <mxGeometry x="560" y="242" width="82.2" height="60" as="geometry" />
@@ -75,7 +75,7 @@
           <mxGeometry x="410" y="270" width="60" height="68" as="geometry" />
         </mxCell>
         <mxCell id="YPjN2e0MsZWWOv602ALj-40" value="Activation Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="569.1" y="159" width="60" height="20" as="geometry" />
+          <mxGeometry x="560" y="150" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YPjN2e0MsZWWOv602ALj-41" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Azure_Cosmos_DB.svg;" parent="1" vertex="1">
           <mxGeometry x="569.1" y="370" width="64" height="64" as="geometry" />
@@ -94,6 +94,12 @@
         </mxCell>
         <mxCell id="_DLU8eWswIzoaGJRZeSL-4" value="Encrypted Payload" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="119.99999999999997" y="158" width="64.4" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_DLU8eWswIzoaGJRZeSL-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="453" y="120" as="sourcePoint" />
+            <mxPoint x="560" y="120" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
